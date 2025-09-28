@@ -1,0 +1,16 @@
+{
+    "name": "led_effect",
+    "version": "1.0.0",
+    "description": "An embedded library to control LEDs",
+    "license": "MIT",
+    "frameworks": ["espidf", "arduino", "mbed"],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jandelgado/jled"
+    },
+    "authors": {
+        "name": "Kirto",
+        "email": "<sky.kirto[at]qq.com>",
+         "maintainer": true
+    }
+}
