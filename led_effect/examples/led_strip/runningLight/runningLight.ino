@@ -20,5 +20,5 @@ void setup()
 void loop()
 {
     // 直接调用效果方法即可，无需处理时间逻辑
-    strip.blinkAll();
+    strip.runningLight();
 }
